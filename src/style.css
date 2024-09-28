@@ -155,8 +155,8 @@ button:focus {
 }
 
 .logo {
-  height: 1.4em !important;
-  width: 2.5em !important;
+  height: 3em !important;
+  width: 6em !important;
 }
 
 .navbar-nav .nav-link {
@@ -505,9 +505,9 @@ button:focus {
 }
 
 .card-img-top {
-  padding: 20px !important;
-  opacity: 0.8 !important;
-  border-radius: 10px !important;
+  padding: 10px !important;
+  opacity: 1 !important;
+  border-radius: 20px !important;
 }
 
 .blog-img {
